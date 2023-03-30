@@ -1,5 +1,5 @@
 # US-Economic-Data-Analysis
-A look into several datsets concerning the US's economy.
+A look into several datsets concerning the US's economy. The full report can be located in the US_Economic_Data.ipynb file.
 ## Goals
 
 > * What percentage of income growth went to each segment of the population each year? Has this changed over time?
